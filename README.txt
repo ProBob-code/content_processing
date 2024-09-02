@@ -1,4 +1,4 @@
-### INTRODUCTION -
+# INTRODUCTION
 
 In the digital age, where visual content plays a pivotal role in capturing attention and
 conveying messages, the need for a systematic and objective evaluation of images has
@@ -8,8 +8,8 @@ images. This report leverages advanced algorithms and meta extraction techniques
 analyze and score images across multiple dimensions, ensuring that each image's quality,
 relevance, and appeal are meticulously evaluated.
 
-### PURPOSE -
 
+# PURPOSE 
 The primary purpose of the Image Scoring Report is to provide a quantifiable
 measure of an image's overall effectiveness and suitability for specific applications, such as
 online listings for hotels, restaurants, and other businesses. By evaluating images based on
